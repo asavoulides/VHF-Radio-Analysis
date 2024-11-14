@@ -1,6 +1,6 @@
 ﻿# VHF-Radio-Analysis
 Ensure OpenAI key is in Path.
-Install Nvidia Cuda in order to optimize transcription performance
+OPTIONAL: Install Nvidia's CUDA model in order to optimize multithreading performance by utilizing GPU rather than CPU
 
 Add files to analyze in Audio directory
 Run app.py 
